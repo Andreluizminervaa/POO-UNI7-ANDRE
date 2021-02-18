@@ -8,3 +8,6 @@ Passos:
 0 - Instalar o Git
 1 - Escolher uma pasta que será o repositório
 2 - "git init" para iniciar um novo repositório do git
+3 - "git status" para verificar o estado dos arquivos no repositorio
+4 - "git add" para incluir arquivos no tracking do git
+5 - "git commit -m" "uma mensagem descritiva para confirma as mudanças do stage para o repositorio local
